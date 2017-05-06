@@ -1,0 +1,1 @@
+/usr/local/bin/gitLog2CHANGELOG.sh
