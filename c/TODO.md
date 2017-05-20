@@ -1,0 +1,1 @@
+* Check if any devices are unplugged.

@@ -13,11 +13,11 @@ To exit this great program, just press the middle button of the brick.
 Using soft and libs :
 
 * ev3dev : the Debian based ev3 Brick OS : [http://www.ev3dev.org/](http://www.ev3dev.org/)
-* ev3dev Python3 library : [http://docs.ev3dev.org/projects/lego-linux-drivers/en/ev3dev-jessie/](http://docs.ev3dev.org/projects/lego-linux-drivers/en/ev3dev-jessie/)
+* LEGO Mindstorms EV3 Debian C library : [http://in4lio.github.io/ev3dev-c/index.html/](http://in4lio.github.io/ev3dev-c/index.html/)
 
 Help and advices from :
 
-* All of [https://sites.google.com/site/ev3python/](https://sites.google.com/site/ev3python/)
-* All of [http://python-ev3dev.readthedocs.io/en/latest/motors.html](http://python-ev3dev.readthedocs.io/en/latest/motors.html)
+* All of [http://in4lio.github.io/ev3dev-c/index.html/](http://in4lio.github.io/ev3dev-c/index.html/)
+* Some part of [http://rosettacode.org/wiki/Rosetta_Code](http://rosettacode.org/wiki/Rosetta_Code)
 
 Many thanks to them all.
